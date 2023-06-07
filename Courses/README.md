@@ -1,0 +1,1 @@
+These folders contain various excercises and projects based on themes and learning activites found.

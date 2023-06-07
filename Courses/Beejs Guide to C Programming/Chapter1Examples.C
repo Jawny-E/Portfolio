@@ -6,6 +6,6 @@
 /*
     Simple start here with the all time classic
 */
-int main(){
+int main(void){
     printf("Hello World!\n");
 }
